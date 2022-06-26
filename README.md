@@ -1,4 +1,9 @@
-# vue-test
+
+## Open server and app 
+```
+npm start
+```
+
 
 ## Project setup
 ```
