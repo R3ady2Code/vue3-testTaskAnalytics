@@ -1,5 +1,5 @@
 
-## Open server and app 
+## Start server and app 
 ```
 npm start
 ```
